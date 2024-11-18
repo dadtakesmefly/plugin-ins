@@ -1,0 +1,110 @@
+{
+   "all": {
+      "message": "Todo"
+   },
+   "btn_cancel": {
+      "message": "Cancelar"
+   },
+   "btn_enough": {
+      "message": "Detener y Guardar"
+   },
+   "bulk_advanced": {
+      "message": "Configuración avanzada"
+   },
+   "bulk_advanced_params_not_match": {
+      "message": "No hay resultados para parámetros establecidos"
+   },
+   "bulk_download": {
+      "message": "Descarga Masiva"
+   },
+   "description": {
+      "message": "Descarga Fotos y Vídeos de Instagram. Volver a publicar para Alimentar o Historias. Descarga individual o masiva"
+   },
+   "download": {
+      "message": "Descargar"
+   },
+   "download_all": {
+      "message": "Descargar todo"
+   },
+   "downloading": {
+      "message": "Descargar"
+   },
+   "error_bulk": {
+      "message": "Falló la recepción del archivo Zip. Probablemente intentaste descargar demasiados archivos a la vez."
+   },
+   "files": {
+      "message": "file"
+   },
+   "files_found_on_page": {
+      "message": "mensajes encontrados"
+   },
+   "for_days": {
+      "message": "Para días anteriores"
+   },
+   "from": {
+      "message": "de"
+   },
+   "hide_advanced": {
+      "message": "Ocultar la configuración avanzada"
+   },
+   "lang": {
+      "message": "es"
+   },
+   "most_liked": {
+      "message": "Gustó"
+   },
+   "most_viewed": {
+      "message": "Más vistos"
+   },
+   "name": {
+      "message": "Descargador para Instagram ToolMaster"
+   },
+   "no_media_found": {
+      "message": "No se encontró ningún medio"
+   },
+   "photo": {
+      "message": "Foto"
+   },
+   "preparing_links": {
+      "message": "Preparación de enlaces"
+   },
+   "rate_us_descr": {
+      "message": "Deja tu opinión"
+   },
+   "repost": {
+      "message": "Repost"
+   },
+   "repost_error": {
+      "message": "Error de Repost"
+   },
+   "repost_story": {
+      "message": "Repost historia"
+   },
+   "reposted": {
+      "message": "Archivo reposteado!"
+   },
+   "set_range": {
+      "message": "Gama"
+   },
+   "share": {
+      "message": "Compartir"
+   },
+   "sww_error": {
+      "message": "Error desconocido. \n Algo salió mal"
+   },
+   "synchronous_bulk_download_denied": {
+      "message": "Por favor, espere hasta que la descarga en otra pestaña haya terminado."
+   },
+   "to": {
+      "message": "a"
+   },
+   "video": {
+      "message": "Video"
+   },
+   "write_caption": {
+      "message": "Escribe un pie de foto... (máximo 2000 caracteres)"
+   },
+   "zipping_files": {
+      "message": "Preparación del archivo zip"
+   }
+}

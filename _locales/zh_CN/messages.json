@@ -1,0 +1,110 @@
+{
+   "all": {
+      "message": "全部"
+   },
+   "btn_cancel": {
+      "message": "取消"
+   },
+   "btn_enough": {
+      "message": "停止和保存"
+   },
+   "bulk_advanced": {
+      "message": "高级设置"
+   },
+   "bulk_advanced_params_not_match": {
+      "message": "设置参数没有结果"
+   },
+   "bulk_download": {
+      "message": "批量下载"
+   },
+   "description": {
+      "message": "从instagram下载照片和视频。重新发布到饲料或故事。单次或批量下载"
+   },
+   "download": {
+      "message": "下载"
+   },
+   "download_all": {
+      "message": "全部下载"
+   },
+   "downloading": {
+      "message": "下载"
+   },
+   "error_bulk": {
+      "message": "接收Zip文件失败。可能你试图一次下载太多的文件。"
+   },
+   "files": {
+      "message": "档案"
+   },
+   "files_found_on_page": {
+      "message": "找到的职位"
+   },
+   "for_days": {
+      "message": "前几日"
+   },
+   "from": {
+      "message": "从"
+   },
+   "hide_advanced": {
+      "message": "隐藏高级设置"
+   },
+   "lang": {
+      "message": "cz"
+   },
+   "most_liked": {
+      "message": "最喜欢的"
+   },
+   "most_viewed": {
+      "message": "最多人浏览"
+   },
+   "name": {
+      "message": "适用于 Instagram ToolMaster 的下载器。"
+   },
+   "no_media_found": {
+      "message": "没有找到媒体"
+   },
+   "photo": {
+      "message": "照片"
+   },
+   "preparing_links": {
+      "message": "准备连结"
+   },
+   "rate_us_descr": {
+      "message": "留下您的反馈"
+   },
+   "repost": {
+      "message": "转贴"
+   },
+   "repost_error": {
+      "message": "转贴错误"
+   },
+   "repost_story": {
+      "message": "转贴故事"
+   },
+   "reposted": {
+      "message": "文件转贴！"
+   },
+   "set_range": {
+      "message": "范围"
+   },
+   "share": {
+      "message": "份额"
+   },
+   "sww_error": {
+      "message": "未知错误。 出了点问题"
+   },
+   "synchronous_bulk_download_denied": {
+      "message": "请等待，直到在另一个选项卡下载完成。"
+   },
+   "to": {
+      "message": "到"
+   },
+   "video": {
+      "message": "短片"
+   },
+   "write_caption": {
+      "message": "写一个标题。.. (最多2000个字符)"
+   },
+   "zipping_files": {
+      "message": "准备zip文件"
+   }
+}

@@ -1,0 +1,110 @@
+{
+   "all": {
+      "message": "Aller"
+   },
+   "btn_cancel": {
+      "message": "Stornieren"
+   },
+   "btn_enough": {
+      "message": "Stoppen & Speichern"
+   },
+   "bulk_advanced": {
+      "message": "Erweiterte Einstellungen"
+   },
+   "bulk_advanced_params_not_match": {
+      "message": "Keine Ergebnisse für set parameters"
+   },
+   "bulk_download": {
+      "message": "Massen-Download"
+   },
+   "description": {
+      "message": "Laden Sie Fotos und Videos von Instagram herunter. Repost zu füttern oder Geschichten. Einzel- oder Massen-Download"
+   },
+   "download": {
+      "message": "Herunterladen"
+   },
+   "download_all": {
+      "message": "Alle herunterladen"
+   },
+   "downloading": {
+      "message": "Downloading"
+   },
+   "error_bulk": {
+      "message": "Empfangen der Zip-Datei fehlgeschlagen. Wahrscheinlich haben Sie versucht, zu viele Dateien gleichzeitig herunterzuladen."
+   },
+   "files": {
+      "message": "Datei"
+   },
+   "files_found_on_page": {
+      "message": "beiträge gefunden"
+   },
+   "for_days": {
+      "message": "Für frühere Tage"
+   },
+   "from": {
+      "message": "von"
+   },
+   "hide_advanced": {
+      "message": "Erweiterte Einstellungen ausblenden"
+   },
+   "lang": {
+      "message": "de"
+   },
+   "most_liked": {
+      "message": "Am meisten gefallen"
+   },
+   "most_viewed": {
+      "message": "Am meisten angesehen"
+   },
+   "name": {
+      "message": "Toolkit für Instagram herunterladen"
+   },
+   "no_media_found": {
+      "message": "Keine Medien gefunden"
+   },
+   "photo": {
+      "message": "Foto"
+   },
+   "preparing_links": {
+      "message": "Links vorbereiten"
+   },
+   "rate_us_descr": {
+      "message": "Geben Sie Ihr Feedback ab"
+   },
+   "repost": {
+      "message": "Umbuchen"
+   },
+   "repost_error": {
+      "message": "Repost-Fehler"
+   },
+   "repost_story": {
+      "message": "Repost Geschichte"
+   },
+   "reposted": {
+      "message": "Datei reposted!"
+   },
+   "set_range": {
+      "message": "Palette"
+   },
+   "share": {
+      "message": "Aktie"
+   },
+   "sww_error": {
+      "message": "Unbekannter Fehler. \n Etwas ist schief gelaufen"
+   },
+   "synchronous_bulk_download_denied": {
+      "message": "Bitte warten Sie, bis der Download in einem anderen Tab abgeschlossen ist."
+   },
+   "to": {
+      "message": "zu"
+   },
+   "video": {
+      "message": "Video"
+   },
+   "write_caption": {
+      "message": "Schreiben Sie eine Beschriftung... (max 2000 Zeichen)"
+   },
+   "zipping_files": {
+      "message": "ZIP-Datei vorbereiten"
+   }
+}

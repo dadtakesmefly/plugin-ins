@@ -1,0 +1,34 @@
+{
+   "action": {
+      "default_icon": {
+         "16": "img/icon_16.png"
+      },
+      "default_title": "__MSG_name__"
+   },
+   "background": {
+      "service_worker": "/js/bg.js"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "css": [ "css/fonts.css", "css/styles.css" ],
+      "js": [ "js/app.js" ],
+      "matches": [ "*://*.instagram.com/*" ],
+      "run_at": "document_idle"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "host_permissions": [ "*://*.instagram.com/*" ],
+   "icons": {
+      "128": "img/icon_128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAg5Xn+4v4QOWADfatQ6et7Cp2Y9GVl4CroQ7ZJEUIeve0z5pD86w3I8gUAgYWWXPDB1JxUcOGGJajQpij+SwTHOAryJhaYJKHdPIVdT4w1kRJ4RlFusJ63oqWdXNHdSORLTwWmvHUUrHDtrPUx/gqfBleHFE3MsmWTOJpmnlAxWaNH5AQKBIyl8o6L5QYfbt9cQiAr5VYx/oSBtlFkyzhoLyei6N5kDjSd8fFX8tAdKJcJBffoOYywYR5JLHI9jrw8XfWoq6v1qSptNP3UdLLngEEy3V1pqJET2Fmh+gsiG0N63vi5pGh1Ai2lBqlcH0tW+oquD5quVd8NQDt+WsKQQIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_name__",
+   "permissions": [ "storage", "tabs", "cookies", "webRequest", "downloads" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.3.5",
+   "web_accessible_resources": [ {
+      "matches": [ "*://*.instagram.com/*" ],
+      "resources": [ "css/*", "img/*", "fonts/*" ]
+   } ]
+}

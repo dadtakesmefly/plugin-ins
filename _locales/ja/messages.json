@@ -1,0 +1,110 @@
+{
+   "all": {
+      "message": "すべて"
+   },
+   "btn_cancel": {
+      "message": "キャンセル"
+   },
+   "btn_enough": {
+      "message": "停止(S)"
+   },
+   "bulk_advanced": {
+      "message": "詳細設定"
+   },
+   "bulk_advanced_params_not_match": {
+      "message": "Setパラメータの結果はありません"
+   },
+   "bulk_download": {
+      "message": "一括ダウンロード"
+   },
+   "description": {
+      "message": "Instagramのから写真やビデオをダウンロードします。フィードやストーリーに再投稿します。単一または大量ダウンロード"
+   },
+   "download": {
+      "message": "ダウンロード"
+   },
+   "download_all": {
+      "message": "すべてダウンロード"
+   },
+   "downloading": {
+      "message": "ダウンロード"
+   },
+   "error_bulk": {
+      "message": "Zipファイルの受信に失敗しました。おそらく、一度にあまりにも多くのファイルをダウンロードしようとしました。"
+   },
+   "files": {
+      "message": "ファイル"
+   },
+   "files_found_on_page": {
+      "message": "発見された投稿"
+   },
+   "for_days": {
+      "message": "前の日のために"
+   },
+   "from": {
+      "message": "から"
+   },
+   "hide_advanced": {
+      "message": "詳細設定を非表示にする"
+   },
+   "lang": {
+      "message": "ja"
+   },
+   "most_liked": {
+      "message": "最も好き"
+   },
+   "most_viewed": {
+      "message": "最も閲覧された"
+   },
+   "name": {
+      "message": "ToolMaster. Instagramのツールキットをダウンロード"
+   },
+   "no_media_found": {
+      "message": "メディアが見つかりません"
+   },
+   "photo": {
+      "message": "写真"
+   },
+   "preparing_links": {
+      "message": "リンクの準備"
+   },
+   "rate_us_descr": {
+      "message": "フィードバックを残す"
+   },
+   "repost": {
+      "message": "再投稿"
+   },
+   "repost_error": {
+      "message": "再投稿エラー"
+   },
+   "repost_story": {
+      "message": "再投稿ストーリー"
+   },
+   "reposted": {
+      "message": "ファイルが再投稿されました！"
+   },
+   "set_range": {
+      "message": "範囲"
+   },
+   "share": {
+      "message": "シェア"
+   },
+   "sww_error": {
+      "message": "不明なエラー。 \n何かが間違っていました"
+   },
+   "synchronous_bulk_download_denied": {
+      "message": "別のタブでのダウンロードが終了するまでお待ちください。"
+   },
+   "to": {
+      "message": "に"
+   },
+   "video": {
+      "message": "ビデオ"
+   },
+   "write_caption": {
+      "message": "キャプションを書く。.. （最大2000文字）"
+   },
+   "zipping_files": {
+      "message": "Zipファイルの準備"
+   }
+}

@@ -1,0 +1,110 @@
+{
+   "all": {
+      "message": "Todo"
+   },
+   "btn_cancel": {
+      "message": "Cancelar"
+   },
+   "btn_enough": {
+      "message": "Parar & Gravar"
+   },
+   "bulk_advanced": {
+      "message": "Avancado"
+   },
+   "bulk_advanced_params_not_match": {
+      "message": "Sem resultados para definir parâmetros"
+   },
+   "bulk_download": {
+      "message": "Transferência Por Grosso"
+   },
+   "description": {
+      "message": "Faça o Download de fotos e vídeos do Instagram. Repost para alimentar ou histórias. Transferência simples ou em massa"
+   },
+   "download": {
+      "message": "Baixar"
+   },
+   "download_all": {
+      "message": "Obter tudo"
+   },
+   "downloading": {
+      "message": "Utilizar"
+   },
+   "error_bulk": {
+      "message": "A recepção do ficheiro Zip foi mal-sucedida. Provavelmente você tentou baixar muitos arquivos ao mesmo tempo."
+   },
+   "files": {
+      "message": "arquivo"
+   },
+   "files_found_on_page": {
+      "message": "publicações encontradas"
+   },
+   "for_days": {
+      "message": "Nos dias anteriores"
+   },
+   "from": {
+      "message": "de"
+   },
+   "hide_advanced": {
+      "message": "Esconder a configuração avançada"
+   },
+   "lang": {
+      "message": "pt"
+   },
+   "most_liked": {
+      "message": "Mais apreciado"
+   },
+   "most_viewed": {
+      "message": "Mais visto"
+   },
+   "name": {
+      "message": "Downloader para Instagram ToolMaster"
+   },
+   "no_media_found": {
+      "message": "Não foi encontrado nenhum disco"
+   },
+   "photo": {
+      "message": "Foto"
+   },
+   "preparing_links": {
+      "message": "A preparar as ligações"
+   },
+   "rate_us_descr": {
+      "message": "Deixe o seu feedback"
+   },
+   "repost": {
+      "message": "Reposta"
+   },
+   "repost_error": {
+      "message": "Erro De Repost"
+   },
+   "repost_story": {
+      "message": "Repost história"
+   },
+   "reposted": {
+      "message": "Ficheiro reposited!"
+   },
+   "set_range": {
+      "message": "Gama"
+   },
+   "share": {
+      "message": "Compartilhar"
+   },
+   "sww_error": {
+      "message": "Erro desconhecido. algo correu mal"
+   },
+   "synchronous_bulk_download_denied": {
+      "message": "Por favor, espere até que o download em outra página esteja terminado."
+   },
+   "to": {
+      "message": "para"
+   },
+   "video": {
+      "message": "Video"
+   },
+   "write_caption": {
+      "message": "Escreve uma legenda... (máx. 2000 caracteres)"
+   },
+   "zipping_files": {
+      "message": "A preparar o ficheiro zip"
+   }
+}

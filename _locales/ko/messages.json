@@ -1,0 +1,110 @@
+{
+   "all": {
+      "message": "모두"
+   },
+   "btn_cancel": {
+      "message": "취소"
+   },
+   "btn_enough": {
+      "message": "중지 및 저장"
+   },
+   "bulk_advanced": {
+      "message": "고급 설정"
+   },
+   "bulk_advanced_params_not_match": {
+      "message": "설정된 매개변수에 대한 결과가 없습니다."
+   },
+   "bulk_download": {
+      "message": "대량 다운로드"
+   },
+   "description": {
+      "message": "인스타그램에서 사진과 비디오를 다운로드하세요. 피드 또는 스토리에 리포스트 가능. 단일 또는 대량 다운로드"
+   },
+   "download": {
+      "message": "다운로드"
+   },
+   "download_all": {
+      "message": "모두 다운로드"
+   },
+   "downloading": {
+      "message": "다운로드 중"
+   },
+   "error_bulk": {
+      "message": "zip 파일 수신에 실패했습니다. 한 번에 너무 많은 파일을 다운로드하려고 했을 수 있습니다."
+   },
+   "files": {
+      "message": "파일"
+   },
+   "files_found_on_page": {
+      "message": "포스트를 찾았습니다"
+   },
+   "for_days": {
+      "message": "이전 날짜"
+   },
+   "from": {
+      "message": "부터"
+   },
+   "hide_advanced": {
+      "message": "고급 설정 숨기기"
+   },
+   "lang": {
+      "message": "ko"
+   },
+   "most_liked": {
+      "message": "최다 즐겨찾기"
+   },
+   "most_viewed": {
+      "message": "최다 조회"
+   },
+   "name": {
+      "message": "ToolMaster. Instagram 툴킷 다운로드"
+   },
+   "no_media_found": {
+      "message": "미디어를 찾을 수 없음"
+   },
+   "photo": {
+      "message": "사진"
+   },
+   "preparing_links": {
+      "message": "링크 준비 중"
+   },
+   "rate_us_descr": {
+      "message": "피드백 남기기"
+   },
+   "repost": {
+      "message": "리포스트"
+   },
+   "repost_error": {
+      "message": "리포스트 오류"
+   },
+   "repost_story": {
+      "message": "스토리 리포스트"
+   },
+   "reposted": {
+      "message": "파일이 리포스트 되었습니다!"
+   },
+   "set_range": {
+      "message": "범위"
+   },
+   "share": {
+      "message": "공유"
+   },
+   "sww_error": {
+      "message": "알 수 없는 오류입니다. \n문제가 발생했습니다."
+   },
+   "synchronous_bulk_download_denied": {
+      "message": "다른 탭에서 다운로드가 완료될 때까지 기다리십시오."
+   },
+   "to": {
+      "message": "까지"
+   },
+   "video": {
+      "message": "비디오"
+   },
+   "write_caption": {
+      "message": "캡션 작성...(최대 2000자)"
+   },
+   "zipping_files": {
+      "message": "zip 파일 준비 중"
+   }
+}

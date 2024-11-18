@@ -1,0 +1,110 @@
+{
+   "all": {
+      "message": "Tout"
+   },
+   "btn_cancel": {
+      "message": "Annuler"
+   },
+   "btn_enough": {
+      "message": "Arrêt et Sauvegarde"
+   },
+   "bulk_advanced": {
+      "message": "Paramètres avancés"
+   },
+   "bulk_advanced_params_not_match": {
+      "message": "Aucun résultat pour set parameters"
+   },
+   "bulk_download": {
+      "message": "Téléchargement en Vrac"
+   },
+   "description": {
+      "message": "Téléchargez des photos et des vidéos depuis Instagram. Republier pour Nourrir ou des histoires. Téléchargement simple ou en masse"
+   },
+   "download": {
+      "message": "Télécharger"
+   },
+   "download_all": {
+      "message": "Télécharger tout"
+   },
+   "downloading": {
+      "message": "Télécharger"
+   },
+   "error_bulk": {
+      "message": "Échec de la réception du fichier Zip. Vous avez probablement essayé de télécharger trop de fichiers à la fois."
+   },
+   "files": {
+      "message": "fichier"
+   },
+   "files_found_on_page": {
+      "message": "articles trouvés"
+   },
+   "for_days": {
+      "message": "Pour les jours précédents"
+   },
+   "from": {
+      "message": "de"
+   },
+   "hide_advanced": {
+      "message": "Masquer les paramètres avancés"
+   },
+   "lang": {
+      "message": "fr"
+   },
+   "most_liked": {
+      "message": "Les plus aimés"
+   },
+   "most_viewed": {
+      "message": "Les plus vues"
+   },
+   "name": {
+      "message": "Téléchargeur pour Instagram ToolMaster"
+   },
+   "no_media_found": {
+      "message": "Aucun média trouvé"
+   },
+   "photo": {
+      "message": "Photo"
+   },
+   "preparing_links": {
+      "message": "Préparation des liens"
+   },
+   "rate_us_descr": {
+      "message": "Laissez votre avis"
+   },
+   "repost": {
+      "message": "Rediffusion"
+   },
+   "repost_error": {
+      "message": "Erreur de Republication"
+   },
+   "repost_story": {
+      "message": "Republier l'histoire"
+   },
+   "reposted": {
+      "message": "Fichier republié!"
+   },
+   "set_range": {
+      "message": "Gamme"
+   },
+   "share": {
+      "message": "Part"
+   },
+   "sww_error": {
+      "message": "Erreur inconnue. \n Quelque chose s'est mal passé"
+   },
+   "synchronous_bulk_download_denied": {
+      "message": "Veuillez attendre que le téléchargement dans un autre onglet soit terminé."
+   },
+   "to": {
+      "message": "de"
+   },
+   "video": {
+      "message": "Vidéo"
+   },
+   "write_caption": {
+      "message": "Écrivez une légende... (max 2000 caractères)"
+   },
+   "zipping_files": {
+      "message": "Préparation du fichier zip"
+   }
+}

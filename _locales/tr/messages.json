@@ -1,0 +1,110 @@
+{
+   "all": {
+      "message": "Tüm"
+   },
+   "btn_cancel": {
+      "message": "İptal etmek"
+   },
+   "btn_enough": {
+      "message": "Durdur ve Kaydet"
+   },
+   "bulk_advanced": {
+      "message": "Gelişmiş ayarlar"
+   },
+   "bulk_advanced_params_not_match": {
+      "message": "Ayarlanan parametreler için sonuç yok"
+   },
+   "bulk_download": {
+      "message": "Toplu indirme"
+   },
+   "description": {
+      "message": "İnstagramdan Fotoğraf ve Video indirin. Tekrar gönder ya da Hikayeler Beslemek için. Tek veya toplu indirme"
+   },
+   "download": {
+      "message": "İndirmek"
+   },
+   "download_all": {
+      "message": "Tümünü indir"
+   },
+   "downloading": {
+      "message": "İndirir"
+   },
+   "error_bulk": {
+      "message": "Zip dosyası alınamadı. Muhtemelen aynı anda çok fazla dosya indirmeyi denediniz."
+   },
+   "files": {
+      "message": "eğe"
+   },
+   "files_found_on_page": {
+      "message": "bulunan mesajlar"
+   },
+   "for_days": {
+      "message": "Önceki günler için"
+   },
+   "from": {
+      "message": "-den"
+   },
+   "hide_advanced": {
+      "message": "Gelişmiş ayarları gizle"
+   },
+   "lang": {
+      "message": "tr"
+   },
+   "most_liked": {
+      "message": "En çok beğenilenler"
+   },
+   "most_viewed": {
+      "message": "En çok izlenenler"
+   },
+   "name": {
+      "message": "Instagram ToolMaster için İndirici"
+   },
+   "no_media_found": {
+      "message": "Medya bulunamadı"
+   },
+   "photo": {
+      "message": "Fotoğraf"
+   },
+   "preparing_links": {
+      "message": "Bağlantıların hazırlanması"
+   },
+   "rate_us_descr": {
+      "message": "Geri bildiriminizi bırakın"
+   },
+   "repost": {
+      "message": "Yeniden yayınlamak"
+   },
+   "repost_error": {
+      "message": "Repost Hatası"
+   },
+   "repost_story": {
+      "message": "Repost hikayesi"
+   },
+   "reposted": {
+      "message": "Dosya yeniden gönderildi!"
+   },
+   "set_range": {
+      "message": "Aralık"
+   },
+   "share": {
+      "message": "Paylaş"
+   },
+   "sww_error": {
+      "message": "Bilinmeyen bir hata oluştu. \n bir Şeyler ters gitti"
+   },
+   "synchronous_bulk_download_denied": {
+      "message": "Lütfen başka bir sekmede indirme işlemi bitene kadar bekleyin."
+   },
+   "to": {
+      "message": "-e doğru"
+   },
+   "video": {
+      "message": "Video"
+   },
+   "write_caption": {
+      "message": "Bir başlık yazın... (en fazla 2000 karakter)"
+   },
+   "zipping_files": {
+      "message": "Zip dosyası hazırlama"
+   }
+}
